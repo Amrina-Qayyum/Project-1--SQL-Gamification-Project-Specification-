@@ -105,20 +105,6 @@ This project belongs to **PPG_6**, but I could not complete the live collaborati
 
 ---
 
-## Advanced SQL Features Included
-The project also includes separate SQL files to demonstrate additional SQL depth:
-
-- User-Defined Function (UDF)
-- Recursive CTE
-- Stored Procedure
-
-### Advanced Files
-- Advanced_UDF.sql
-- Advanced_RecursiveCTE.sql
-- Advanced_StoredProcedure.sql
-
----
-
 ## Screenshots
 The repository includes result screenshots for both the individual and pair components.
 
@@ -155,11 +141,6 @@ The repository includes result screenshots for both the individual and pair comp
    Session08.sql
    Session09.sql
    Session10.sql
-
-/Advanced
-   Advanced_UDF.sql
-   Advanced_RecursiveCTE.sql
-   Advanced_StoredProcedure.sql
 
 /screenshots
    Mystery01_Section1.png
