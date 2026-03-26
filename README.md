@@ -135,6 +135,8 @@ All screenshots are stored in:
 /screenshots
 ```
 ### Repositories Structure
+
+```text
 /Individual
    /AmrinaQayyum
       Mystery01.sql
