@@ -5,9 +5,7 @@
 
 ## Group Members
 - Amrina Qayyum
-- Qu, ChengFu
 - Lliguicota, Jeaneth
-- Singh, Kanwaljit
 - Meer, Shais
 
 ## Student Who Prepared This Submission
