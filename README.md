@@ -122,18 +122,12 @@ The project also includes separate SQL files to demonstrate additional SQL depth
 ## Screenshots
 The repository includes result screenshots for both the individual and pair components.
 
-### Screenshot Summary
+### Results Screenshot Summary
 - **40 screenshots** for individual mysteries  
   - 10 mysteries × 4 sections
 - **30 screenshots** for pair sessions  
   - 10 sessions × 3 queries
 
-### Screenshot Folder
-All screenshots are stored in:
-
-```text
-/screenshots
-```
 ### Repositories Structure
 
 ```text
