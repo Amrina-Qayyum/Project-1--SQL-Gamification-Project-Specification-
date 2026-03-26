@@ -133,3 +133,47 @@ All screenshots are stored in:
 
 ```text
 /screenshots
+```
+### Repositories Structure
+/Individual
+   /AmrinaQayyum
+      Mystery01.sql
+      Mystery02.sql
+      Mystery03.sql
+      Mystery04.sql
+      Mystery05.sql
+      Mystery06.sql
+      Mystery07.sql
+      Mystery08.sql
+      Mystery09.sql
+      Mystery10.sql
+
+/PairWork
+   Session01.sql
+   Session02.sql
+   Session03.sql
+   Session04.sql
+   Session05.sql
+   Session06.sql
+   Session07.sql
+   Session08.sql
+   Session09.sql
+   Session10.sql
+
+/Advanced
+   Advanced_UDF.sql
+   Advanced_RecursiveCTE.sql
+   Advanced_StoredProcedure.sql
+
+/screenshots
+   Mystery01_Section1.png
+   Mystery01_Section2.png
+   ...
+   Mystery10_Section4.png
+   Session01_Query1.png
+   Session01_Query2.png
+   ...
+   Session10_Query3.png
+
+README.md
+
